@@ -10,7 +10,7 @@ dependencies:
   flutter:
     sdk: flutter
 
-  jsf: ^0.5.4
+  jsf: ^0.3.1
 
   logging: ^1.0.1
 
